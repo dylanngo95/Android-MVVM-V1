@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DemoMVVM</string>
+    <string name="add_age">Add Age</string>
+</resources>
